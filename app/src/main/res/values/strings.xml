@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppFesta</string>
+    <string name="dias">dias</string>
+    <string name="nao">Não vai</string>
+    <string name="sim">Confirmado</string>
+    <string name="talvez">Não se decidiu</string>
+</resources>
